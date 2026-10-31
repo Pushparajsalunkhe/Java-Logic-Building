@@ -1,0 +1,6 @@
+/**
+ * exception
+ */
+public class exception {
+
+}
